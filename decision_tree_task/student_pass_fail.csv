@@ -1,0 +1,16 @@
+Attendance,StudyHours,InternalTest,FinalResult
+Low,Low,Fail,Fail
+Low,High,Fail,Fail
+Low,High,Pass,Pass
+Medium,Low,Fail,Fail
+Medium,Low,Pass,Pass
+Medium,High,Fail,Pass
+Medium,High,Pass,Pass
+High,Low,Fail,Pass
+High,Low,Pass,Pass
+High,High,Fail,Pass
+High,High,Pass,Pass
+Low,Low,Pass,Fail
+Medium,High,Pass,Pass
+High,Low,Fail,Pass
+Low,High,Pass,Pass
