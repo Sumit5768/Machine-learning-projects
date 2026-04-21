@@ -1,0 +1,16 @@
+Income_Level,CIBIL_Score,Job_Type,Loan_Approved
+High,Good,Govt,Yes
+High,Good,Private,Yes
+High,Bad,Govt,Yes
+High,Bad,Private,No
+Medium,Good,Govt,Yes
+Medium,Good,Private,Yes
+Medium,Bad,Govt,No
+Medium,Bad,Private,No
+Low,Good,Govt,Yes
+Low,Good,Private,No
+Low,Bad,Govt,No
+Low,Bad,Private,No
+Medium,Good,Govt,Yes
+High,Good,Govt,Yes
+Medium,Bad,Govt,No
